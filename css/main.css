@@ -1,10 +1,36 @@
+/* Seteo de archivos */
 *    {
 	margin:0;
 	padding:0;
 	box-sizing:border-box;
 }
+/* Estilos Generales */
+
 body {
 	font-family: 'Raleway', sans-serif !important;
 	color: #fff;
 }
+.h1 {
+	color:black;
+}
+.grad70 {
+	background: linear-gradient(rgb(230, 94, 223) 45%, rgb(63, 8, 47));
+}
+.container-flex-column {
+	display:flex;
+	flex-direction:column;
+	justify-content: center;
+	padding:2em;
+	height: 100vh;
+}
+
+.vh100 {
+	height:100vh;
+}
+.logo {
+	max-width:100%;
+}
+/* Estilos vista register*/
+
+
 
