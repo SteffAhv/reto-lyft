@@ -13,7 +13,7 @@ body {
 .h1 {
 	color:black;
 }
-.grad70 {
+.backgr {
 	background: linear-gradient(rgb(230, 94, 223) 45%, rgb(63, 8, 47));
 }
 .container-flex-column {
@@ -23,7 +23,6 @@ body {
 	padding:2em;
 	height: 100vh;
 }
-
 .vh100 {
 	height:100vh;
 }
@@ -31,6 +30,18 @@ body {
 	max-width:100%;
 }
 /* Estilos vista register*/
+.lyft-bckg {
+	background-image: url('../assets/img/background.jpg');
+	background-position: center;
+	background-size: cover;
+}
+.container-flex-row {
+	display:flex;
+	flex-direction: column;
+	justify-content: flex-end;
+	padding:2em;
+	height: 100vh;
+}
 
 
 
